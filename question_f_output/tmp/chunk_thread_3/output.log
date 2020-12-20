@@ -1,0 +1,1400 @@
+https://www.parade.com: {
+    "http_version": "2",
+    "remote_ip": "104.17.89.42",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.069063",
+    "time_connect": "0.032929",
+    "time_namelookup": "0.031433",
+    "time_pretransfer": "0.069241",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.082932",
+    "time_total": "0.083059",
+    "website": "https://www.parade.com"
+}
+https://www.wordcounter.net: {
+    "http_version": "2",
+    "remote_ip": "104.20.193.70",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.033391",
+    "time_connect": "0.007475",
+    "time_namelookup": "0.006329",
+    "time_pretransfer": "0.033514",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.314106",
+    "time_total": "0.314247",
+    "website": "https://www.wordcounter.net"
+}
+https://www.slidesgo.com: {
+    "http_version": "2",
+    "remote_ip": "104.22.0.146",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.028273",
+    "time_connect": "0.007312",
+    "time_namelookup": "0.006077",
+    "time_pretransfer": "0.028561",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.103388",
+    "time_total": "0.103509",
+    "website": "https://www.slidesgo.com"
+}
+https://www.jamendo.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.71.171",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.036896",
+    "time_connect": "0.016682",
+    "time_namelookup": "0.007050",
+    "time_pretransfer": "0.036990",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.310765",
+    "time_total": "0.311182",
+    "website": "https://www.jamendo.com"
+}
+https://www.colourpop.com: {
+    "http_version": "2",
+    "remote_ip": "23.227.38.74",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.042322",
+    "time_connect": "0.025334",
+    "time_namelookup": "0.022831",
+    "time_pretransfer": "0.042434",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.223090",
+    "time_total": "0.223187",
+    "website": "https://www.colourpop.com"
+}
+https://www.google.tn: {
+    "http_version": "2",
+    "remote_ip": "172.217.18.99",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.044633",
+    "time_connect": "0.013375",
+    "time_namelookup": "0.012083",
+    "time_pretransfer": "0.044815",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.096869",
+    "time_total": "0.097196",
+    "website": "https://www.google.tn"
+}
+https://www.google.org: {
+    "http_version": "2",
+    "remote_ip": "216.239.32.27",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.037131",
+    "time_connect": "0.012982",
+    "time_namelookup": "0.011518",
+    "time_pretransfer": "0.037261",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.050820",
+    "time_total": "0.057210",
+    "website": "https://www.google.org"
+}
+https://www.google.jo: {
+    "http_version": "2",
+    "remote_ip": "172.217.16.131",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.061842",
+    "time_connect": "0.024715",
+    "time_namelookup": "0.023533",
+    "time_pretransfer": "0.061908",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.103708",
+    "time_total": "0.104246",
+    "website": "https://www.google.jo"
+}
+https://www.yalla-shoot.com: {
+    "http_version": "2",
+    "remote_ip": "104.21.234.145",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.042122",
+    "time_connect": "0.014127",
+    "time_namelookup": "0.005427",
+    "time_pretransfer": "0.042260",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.099420",
+    "time_total": "0.099494",
+    "website": "https://www.yalla-shoot.com"
+}
+https://www.lasvegassun.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.17.169",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.024455",
+    "time_connect": "0.007381",
+    "time_namelookup": "0.006324",
+    "time_pretransfer": "0.024694",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.054269",
+    "time_total": "0.054314",
+    "website": "https://www.lasvegassun.com"
+}
+https://www.tweaktown.com: {
+    "http_version": "2",
+    "remote_ip": "104.22.36.139",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.041937",
+    "time_connect": "0.022462",
+    "time_namelookup": "0.021247",
+    "time_pretransfer": "0.042053",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.100729",
+    "time_total": "0.103112",
+    "website": "https://www.tweaktown.com"
+}
+https://www.vu.nl: {
+    "http_version": "2",
+    "remote_ip": "104.27.176.61",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.055940",
+    "time_connect": "0.029547",
+    "time_namelookup": "0.021067",
+    "time_pretransfer": "0.056094",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.439949",
+    "time_total": "0.440049",
+    "website": "https://www.vu.nl"
+}
+https://www.fresherslive.com: {
+    "http_version": "2",
+    "remote_ip": "104.22.79.185",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.039651",
+    "time_connect": "0.021381",
+    "time_namelookup": "0.020422",
+    "time_pretransfer": "0.039749",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.571042",
+    "time_total": "0.931069",
+    "website": "https://www.fresherslive.com"
+}
+https://www.google.com.uy: {
+    "http_version": "2",
+    "remote_ip": "216.58.212.163",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.400153",
+    "time_connect": "0.381491",
+    "time_namelookup": "0.380078",
+    "time_pretransfer": "0.400303",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.442994",
+    "time_total": "0.444476",
+    "website": "https://www.google.com.uy"
+}
+https://www.taroot-rangi.com: {
+    "http_version": "2",
+    "remote_ip": "104.26.5.125",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.026304",
+    "time_connect": "0.009123",
+    "time_namelookup": "0.008157",
+    "time_pretransfer": "0.026451",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.058449",
+    "time_total": "0.060801",
+    "website": "https://www.taroot-rangi.com"
+}
+https://www.pressherald.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.68.119",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.040816",
+    "time_connect": "0.014370",
+    "time_namelookup": "0.005871",
+    "time_pretransfer": "0.040903",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.598714",
+    "time_total": "0.689496",
+    "website": "https://www.pressherald.com"
+}
+https://www.redgifs.com: {
+    "http_version": "2",
+    "remote_ip": "104.18.5.207",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.031487",
+    "time_connect": "0.006491",
+    "time_namelookup": "0.005781",
+    "time_pretransfer": "0.031626",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.041569",
+    "time_total": "0.043614",
+    "website": "https://www.redgifs.com"
+}
+https://www.indosport.com: {
+    "http_version": "2",
+    "remote_ip": "104.26.2.58",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.026667",
+    "time_connect": "0.007863",
+    "time_namelookup": "0.006404",
+    "time_pretransfer": "0.026758",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.444340",
+    "time_total": "0.482158",
+    "website": "https://www.indosport.com"
+}
+https://www.pjmedia.com: {
+    "http_version": "2",
+    "remote_ip": "104.18.19.43",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.023893",
+    "time_connect": "0.006734",
+    "time_namelookup": "0.005933",
+    "time_pretransfer": "0.024023",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.442216",
+    "time_total": "0.442318",
+    "website": "https://www.pjmedia.com"
+}
+https://www.friendfeed.com: {
+    "http_version": "0",
+    "remote_ip": "157.240.9.18",
+    "remote_port": "443",
+    "status": "error",
+    "time_appconnect": "0.000000",
+    "time_connect": "0.048390",
+    "time_namelookup": "0.020800",
+    "time_pretransfer": "0.000000",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.000000",
+    "time_total": "0.091277",
+    "website": "https://www.friendfeed.com"
+}
+https://www.piliapp.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.75.119",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.052020",
+    "time_connect": "0.029863",
+    "time_namelookup": "0.021082",
+    "time_pretransfer": "0.052113",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.102747",
+    "time_total": "0.103258",
+    "website": "https://www.piliapp.com"
+}
+https://www.nation.africa: {
+    "http_version": "2",
+    "remote_ip": "104.18.29.152",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.067224",
+    "time_connect": "0.039094",
+    "time_namelookup": "0.037786",
+    "time_pretransfer": "0.067362",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.084766",
+    "time_total": "0.084810",
+    "website": "https://www.nation.africa"
+}
+https://www.storeboard.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.68.13",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.073098",
+    "time_connect": "0.015301",
+    "time_namelookup": "0.006276",
+    "time_pretransfer": "0.073188",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.314860",
+    "time_total": "0.314987",
+    "website": "https://www.storeboard.com"
+}
+https://www.lihkg.com: {
+    "http_version": "2",
+    "remote_ip": "104.17.213.193",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.029974",
+    "time_connect": "0.011643",
+    "time_namelookup": "0.010584",
+    "time_pretransfer": "0.030147",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.053057",
+    "time_total": "0.053110",
+    "website": "https://www.lihkg.com"
+}
+https://www.mundosexanuncio.com: {
+    "http_version": "2",
+    "remote_ip": "104.26.14.202",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.027906",
+    "time_connect": "0.007126",
+    "time_namelookup": "0.006052",
+    "time_pretransfer": "0.028043",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.416818",
+    "time_total": "0.495724",
+    "website": "https://www.mundosexanuncio.com"
+}
+https://www.avgle.com: {
+    "http_version": "2",
+    "remote_ip": "172.64.128.16",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.024019",
+    "time_connect": "0.008260",
+    "time_namelookup": "0.006481",
+    "time_pretransfer": "0.024126",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.084680",
+    "time_total": "0.084795",
+    "website": "https://www.avgle.com"
+}
+https://www.ficbook.net: {
+    "http_version": "2",
+    "remote_ip": "104.20.39.242",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.029225",
+    "time_connect": "0.015648",
+    "time_namelookup": "0.014660",
+    "time_pretransfer": "0.029321",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.185649",
+    "time_total": "0.185750",
+    "website": "https://www.ficbook.net"
+}
+https://www.bloombergquint.com: {
+    "http_version": "2",
+    "remote_ip": "104.18.93.198",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.039817",
+    "time_connect": "0.014919",
+    "time_namelookup": "0.013621",
+    "time_pretransfer": "0.039925",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.683903",
+    "time_total": "0.688908",
+    "website": "https://www.bloombergquint.com"
+}
+https://www.brstej.com: {
+    "http_version": "2",
+    "remote_ip": "104.26.7.141",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.025922",
+    "time_connect": "0.009020",
+    "time_namelookup": "0.007956",
+    "time_pretransfer": "0.026059",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.125484",
+    "time_total": "0.125575",
+    "website": "https://www.brstej.com"
+}
+https://www.ole.com.ar: {
+    "http_version": "2",
+    "remote_ip": "104.18.170.219",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.033284",
+    "time_connect": "0.007795",
+    "time_namelookup": "0.006566",
+    "time_pretransfer": "0.033441",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.332331",
+    "time_total": "0.361024",
+    "website": "https://www.ole.com.ar"
+}
+https://www.tensorflow.org: {
+    "http_version": "2",
+    "remote_ip": "172.217.23.174",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.066435",
+    "time_connect": "0.048238",
+    "time_namelookup": "0.046822",
+    "time_pretransfer": "0.066623",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.315026",
+    "time_total": "0.833728",
+    "website": "https://www.tensorflow.org"
+}
+https://www.gab.com: {
+    "http_version": "2",
+    "remote_ip": "104.16.121.96",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.028057",
+    "time_connect": "0.007734",
+    "time_namelookup": "0.006455",
+    "time_pretransfer": "0.028192",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.041778",
+    "time_total": "0.041823",
+    "website": "https://www.gab.com"
+}
+https://www.ilfattoquotidiano.it: {
+    "http_version": "2",
+    "remote_ip": "104.17.61.22",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.042317",
+    "time_connect": "0.023910",
+    "time_namelookup": "0.022960",
+    "time_pretransfer": "0.042448",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.062234",
+    "time_total": "0.066798",
+    "website": "https://www.ilfattoquotidiano.it"
+}
+https://www.mtlnovel.com: {
+    "http_version": "2",
+    "remote_ip": "172.64.129.13",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.026795",
+    "time_connect": "0.005984",
+    "time_namelookup": "0.005153",
+    "time_pretransfer": "0.026924",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.252137",
+    "time_total": "0.252855",
+    "website": "https://www.mtlnovel.com"
+}
+https://www.ufreegames.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.6.56",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.038700",
+    "time_connect": "0.015418",
+    "time_namelookup": "0.014262",
+    "time_pretransfer": "0.038812",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.077918",
+    "time_total": "0.078260",
+    "website": "https://www.ufreegames.com"
+}
+https://www.jbhifi.com.au: {
+    "http_version": "2",
+    "remote_ip": "104.18.2.69",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.142249",
+    "time_connect": "0.120435",
+    "time_namelookup": "0.119129",
+    "time_pretransfer": "0.142384",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.870640",
+    "time_total": "0.891848",
+    "website": "https://www.jbhifi.com.au"
+}
+https://www.secnews.gr: {
+    "http_version": "2",
+    "remote_ip": "104.23.129.67",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.060641",
+    "time_connect": "0.035808",
+    "time_namelookup": "0.034573",
+    "time_pretransfer": "0.060809",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.111323",
+    "time_total": "0.149893",
+    "website": "https://www.secnews.gr"
+}
+https://www.fashionnova.com: {
+    "http_version": "2",
+    "remote_ip": "23.227.38.74",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.035447",
+    "time_connect": "0.007487",
+    "time_namelookup": "0.005903",
+    "time_pretransfer": "0.035555",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.659735",
+    "time_total": "0.673903",
+    "website": "https://www.fashionnova.com"
+}
+https://www.openclassrooms.com: {
+    "http_version": "2",
+    "remote_ip": "104.22.64.200",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.055014",
+    "time_connect": "0.009011",
+    "time_namelookup": "0.007307",
+    "time_pretransfer": "0.055143",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.163981",
+    "time_total": "0.164085",
+    "website": "https://www.openclassrooms.com"
+}
+https://www.onlinekhabar.com: {
+    "http_version": "2",
+    "remote_ip": "104.24.109.37",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.052186",
+    "time_connect": "0.030583",
+    "time_namelookup": "0.021962",
+    "time_pretransfer": "0.052312",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.757632",
+    "time_total": "1.109453",
+    "website": "https://www.onlinekhabar.com"
+}
+https://www.googlegroups.com: {
+    "http_version": "2",
+    "remote_ip": "108.177.15.138",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.042443",
+    "time_connect": "0.014621",
+    "time_namelookup": "0.013523",
+    "time_pretransfer": "0.042533",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.633182",
+    "time_total": "0.633321",
+    "website": "https://www.googlegroups.com"
+}
+https://www.exe.io: {
+    "http_version": "2",
+    "remote_ip": "104.26.3.103",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.062609",
+    "time_connect": "0.039766",
+    "time_namelookup": "0.038987",
+    "time_pretransfer": "0.062704",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.143290",
+    "time_total": "0.143340",
+    "website": "https://www.exe.io"
+}
+https://www.texastribune.org: {
+    "http_version": "2",
+    "remote_ip": "104.22.39.184",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.019850",
+    "time_connect": "0.007017",
+    "time_namelookup": "0.006263",
+    "time_pretransfer": "0.019937",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.044708",
+    "time_total": "0.052485",
+    "website": "https://www.texastribune.org"
+}
+https://www.dailypost.ng: {
+    "http_version": "2",
+    "remote_ip": "172.67.75.56",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.070230",
+    "time_connect": "0.041540",
+    "time_namelookup": "0.032610",
+    "time_pretransfer": "0.070349",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.424352",
+    "time_total": "0.424403",
+    "website": "https://www.dailypost.ng"
+}
+https://www.betfair.com: {
+    "http_version": "2",
+    "remote_ip": "104.16.182.251",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.041801",
+    "time_connect": "0.012601",
+    "time_namelookup": "0.011486",
+    "time_pretransfer": "0.041947",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.114117",
+    "time_total": "0.114165",
+    "website": "https://www.betfair.com"
+}
+https://www.faceit.com: {
+    "http_version": "2",
+    "remote_ip": "104.16.12.251",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.029261",
+    "time_connect": "0.006335",
+    "time_namelookup": "0.005236",
+    "time_pretransfer": "0.029389",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.169414",
+    "time_total": "0.169516",
+    "website": "https://www.faceit.com"
+}
+https://www.shapeways.com: {
+    "http_version": "2",
+    "remote_ip": "104.20.22.246",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.026015",
+    "time_connect": "0.006286",
+    "time_namelookup": "0.004964",
+    "time_pretransfer": "0.026186",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "2.489340",
+    "time_total": "2.492680",
+    "website": "https://www.shapeways.com"
+}
+https://www.fontspace.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.74.192",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.048479",
+    "time_connect": "0.022924",
+    "time_namelookup": "0.014148",
+    "time_pretransfer": "0.048593",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.744984",
+    "time_total": "0.870444",
+    "website": "https://www.fontspace.com"
+}
+https://www.mosaiquefm.net: {
+    "http_version": "2",
+    "remote_ip": "104.26.6.159",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.043764",
+    "time_connect": "0.018382",
+    "time_namelookup": "0.016697",
+    "time_pretransfer": "0.043907",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.418663",
+    "time_total": "0.418732",
+    "website": "https://www.mosaiquefm.net"
+}
+https://www.psychiatryonline.org: {
+    "http_version": "2",
+    "remote_ip": "104.18.8.174",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.019215",
+    "time_connect": "0.006273",
+    "time_namelookup": "0.005520",
+    "time_pretransfer": "0.019327",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.687503",
+    "time_total": "0.687714",
+    "website": "https://www.psychiatryonline.org"
+}
+https://www.alternativeto.net: {
+    "http_version": "2",
+    "remote_ip": "104.26.1.179",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.021851",
+    "time_connect": "0.006473",
+    "time_namelookup": "0.005717",
+    "time_pretransfer": "0.021974",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.181169",
+    "time_total": "0.181275",
+    "website": "https://www.alternativeto.net"
+}
+https://www.google.ba: {
+    "http_version": "2",
+    "remote_ip": "172.217.23.131",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.039907",
+    "time_connect": "0.018005",
+    "time_namelookup": "0.014403",
+    "time_pretransfer": "0.040033",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.080362",
+    "time_total": "0.080857",
+    "website": "https://www.google.ba"
+}
+https://www.armorgames.com: {
+    "http_version": "2",
+    "remote_ip": "104.20.53.56",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.025702",
+    "time_connect": "0.007470",
+    "time_namelookup": "0.006373",
+    "time_pretransfer": "0.025806",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.438806",
+    "time_total": "0.438900",
+    "website": "https://www.armorgames.com"
+}
+https://www.kingston.com: {
+    "http_version": "2",
+    "remote_ip": "104.16.249.68",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.176089",
+    "time_connect": "0.160908",
+    "time_namelookup": "0.159843",
+    "time_pretransfer": "0.176194",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.508309",
+    "time_total": "0.508362",
+    "website": "https://www.kingston.com"
+}
+https://www.truthout.org: {
+    "http_version": "2",
+    "remote_ip": "104.20.24.166",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.061847",
+    "time_connect": "0.045148",
+    "time_namelookup": "0.044251",
+    "time_pretransfer": "0.061941",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.077833",
+    "time_total": "0.077875",
+    "website": "https://www.truthout.org"
+}
+https://www.die.net: {
+    "http_version": "2",
+    "remote_ip": "104.26.1.94",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.041269",
+    "time_connect": "0.013623",
+    "time_namelookup": "0.012737",
+    "time_pretransfer": "0.041401",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.697650",
+    "time_total": "0.697774",
+    "website": "https://www.die.net"
+}
+https://www.thehackernews.com: {
+    "http_version": "2",
+    "remote_ip": "104.26.0.97",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.027012",
+    "time_connect": "0.007760",
+    "time_namelookup": "0.006867",
+    "time_pretransfer": "0.027228",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.036566",
+    "time_total": "0.036613",
+    "website": "https://www.thehackernews.com"
+}
+https://www.google.com.mm: {
+    "http_version": "2",
+    "remote_ip": "216.58.205.227",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.047582",
+    "time_connect": "0.026713",
+    "time_namelookup": "0.025433",
+    "time_pretransfer": "0.047719",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.100294",
+    "time_total": "0.100885",
+    "website": "https://www.google.com.mm"
+}
+https://www.lowyat.net: {
+    "http_version": "2",
+    "remote_ip": "104.26.7.73",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.030749",
+    "time_connect": "0.011032",
+    "time_namelookup": "0.010161",
+    "time_pretransfer": "0.030880",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.295267",
+    "time_total": "0.343673",
+    "website": "https://www.lowyat.net"
+}
+https://www.gigazine.net: {
+    "http_version": "2",
+    "remote_ip": "172.67.34.58",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.022745",
+    "time_connect": "0.007506",
+    "time_namelookup": "0.006334",
+    "time_pretransfer": "0.022845",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "1.353696",
+    "time_total": "1.353798",
+    "website": "https://www.gigazine.net"
+}
+https://www.a2hosting.com: {
+    "http_version": "2",
+    "remote_ip": "104.18.132.225",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.126315",
+    "time_connect": "0.107604",
+    "time_namelookup": "0.106270",
+    "time_pretransfer": "0.126460",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "1.521117",
+    "time_total": "1.616855",
+    "website": "https://www.a2hosting.com"
+}
+https://www.connectad.io: {
+    "http_version": "2",
+    "remote_ip": "104.22.55.206",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.033277",
+    "time_connect": "0.013760",
+    "time_namelookup": "0.012908",
+    "time_pretransfer": "0.033462",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.475962",
+    "time_total": "0.476004",
+    "website": "https://www.connectad.io"
+}
+https://www.google.ee: {
+    "http_version": "2",
+    "remote_ip": "172.217.22.35",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.031629",
+    "time_connect": "0.014285",
+    "time_namelookup": "0.010826",
+    "time_pretransfer": "0.031742",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.073248",
+    "time_total": "0.073610",
+    "website": "https://www.google.ee"
+}
+https://www.google.com.sv: {
+    "http_version": "2",
+    "remote_ip": "172.217.16.131",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.052724",
+    "time_connect": "0.029026",
+    "time_namelookup": "0.027504",
+    "time_pretransfer": "0.052803",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.091074",
+    "time_total": "0.091431",
+    "website": "https://www.google.com.sv"
+}
+https://www.google.com.cu: {
+    "http_version": "2",
+    "remote_ip": "172.217.22.99",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.306308",
+    "time_connect": "0.282168",
+    "time_namelookup": "0.280767",
+    "time_pretransfer": "0.306395",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.351352",
+    "time_total": "0.351745",
+    "website": "https://www.google.com.cu"
+}
+https://www.jugantor.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.14.228",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.034656",
+    "time_connect": "0.013086",
+    "time_namelookup": "0.012023",
+    "time_pretransfer": "0.034741",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.547495",
+    "time_total": "1.093111",
+    "website": "https://www.jugantor.com"
+}
+https://www.hkgolden.com: {
+    "http_version": "2",
+    "remote_ip": "104.26.13.44",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.037300",
+    "time_connect": "0.014961",
+    "time_namelookup": "0.013749",
+    "time_pretransfer": "0.037397",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.061085",
+    "time_total": "0.061141",
+    "website": "https://www.hkgolden.com"
+}
+https://www.nobitex.ir: {
+    "http_version": "2",
+    "remote_ip": "104.27.157.24",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "1.077155",
+    "time_connect": "1.047161",
+    "time_namelookup": "1.038527",
+    "time_pretransfer": "1.077261",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "2.085609",
+    "time_total": "2.087360",
+    "website": "https://www.nobitex.ir"
+}
+https://www.google.com.gt: {
+    "http_version": "2",
+    "remote_ip": "172.217.21.227",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.047744",
+    "time_connect": "0.024351",
+    "time_namelookup": "0.023290",
+    "time_pretransfer": "0.047897",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.090730",
+    "time_total": "0.090944",
+    "website": "https://www.google.com.gt"
+}
+https://www.okp.com: {
+    "http_version": "0",
+    "remote_ip": "23.227.38.74",
+    "remote_port": "443",
+    "status": "error",
+    "time_appconnect": "0.000000",
+    "time_connect": "0.293655",
+    "time_namelookup": "0.292801",
+    "time_pretransfer": "0.000000",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.000000",
+    "time_total": "0.306572",
+    "website": "https://www.okp.com"
+}
+https://www.mg.co.za: {
+    "http_version": "2",
+    "remote_ip": "104.22.1.58",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.034131",
+    "time_connect": "0.009320",
+    "time_namelookup": "0.008085",
+    "time_pretransfer": "0.034241",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.073444",
+    "time_total": "0.073505",
+    "website": "https://www.mg.co.za"
+}
+https://www.sennheiser.com: {
+    "http_version": "2",
+    "remote_ip": "104.17.61.185",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.043578",
+    "time_connect": "0.009243",
+    "time_namelookup": "0.008120",
+    "time_pretransfer": "0.043698",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.086597",
+    "time_total": "0.086641",
+    "website": "https://www.sennheiser.com"
+}
+https://www.google.cm: {
+    "http_version": "2",
+    "remote_ip": "216.58.212.163",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.029560",
+    "time_connect": "0.010669",
+    "time_namelookup": "0.010078",
+    "time_pretransfer": "0.029702",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.071528",
+    "time_total": "0.071717",
+    "website": "https://www.google.cm"
+}
+https://www.google.co.cr: {
+    "http_version": "2",
+    "remote_ip": "172.217.21.227",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.031594",
+    "time_connect": "0.012326",
+    "time_namelookup": "0.010969",
+    "time_pretransfer": "0.031684",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.114739",
+    "time_total": "0.114894",
+    "website": "https://www.google.co.cr"
+}
+https://www.bulbagarden.net: {
+    "http_version": "2",
+    "remote_ip": "104.26.2.79",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.022776",
+    "time_connect": "0.008410",
+    "time_namelookup": "0.007004",
+    "time_pretransfer": "0.023097",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.329889",
+    "time_total": "0.521736",
+    "website": "https://www.bulbagarden.net"
+}
+https://www.whatismyip.com: {
+    "http_version": "2",
+    "remote_ip": "104.27.201.87",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.028581",
+    "time_connect": "0.006493",
+    "time_namelookup": "0.005498",
+    "time_pretransfer": "0.028703",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.869001",
+    "time_total": "0.870167",
+    "website": "https://www.whatismyip.com"
+}
+https://www.mind.org.uk: {
+    "http_version": "2",
+    "remote_ip": "104.16.149.89",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.020999",
+    "time_connect": "0.006472",
+    "time_namelookup": "0.005584",
+    "time_pretransfer": "0.021087",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.201811",
+    "time_total": "0.202129",
+    "website": "https://www.mind.org.uk"
+}
+https://www.wuxiaworld.com: {
+    "http_version": "2",
+    "remote_ip": "104.26.15.174",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.022383",
+    "time_connect": "0.008925",
+    "time_namelookup": "0.007923",
+    "time_pretransfer": "0.022470",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.083098",
+    "time_total": "0.086871",
+    "website": "https://www.wuxiaworld.com"
+}
+https://www.camelcamelcamel.com: {
+    "http_version": "2",
+    "remote_ip": "104.22.4.140",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.031521",
+    "time_connect": "0.016448",
+    "time_namelookup": "0.015188",
+    "time_pretransfer": "0.031627",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.233345",
+    "time_total": "0.233545",
+    "website": "https://www.camelcamelcamel.com"
+}
+https://www.google.com.bo: {
+    "http_version": "2",
+    "remote_ip": "172.217.23.99",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.043011",
+    "time_connect": "0.024417",
+    "time_namelookup": "0.023455",
+    "time_pretransfer": "0.043170",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.085450",
+    "time_total": "0.085779",
+    "website": "https://www.google.com.bo"
+}
+https://www.yummly.com: {
+    "http_version": "2",
+    "remote_ip": "104.18.26.71",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.025694",
+    "time_connect": "0.009073",
+    "time_namelookup": "0.008269",
+    "time_pretransfer": "0.025822",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.037682",
+    "time_total": "0.088348",
+    "website": "https://www.yummly.com"
+}
+https://www.jagodangdut.com: {
+    "http_version": "2",
+    "remote_ip": "104.28.19.112",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.040801",
+    "time_connect": "0.018879",
+    "time_namelookup": "0.010418",
+    "time_pretransfer": "0.040901",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.723910",
+    "time_total": "0.732649",
+    "website": "https://www.jagodangdut.com"
+}
+https://www.google.com.np: {
+    "http_version": "2",
+    "remote_ip": "216.58.212.131",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.046592",
+    "time_connect": "0.028670",
+    "time_namelookup": "0.023119",
+    "time_pretransfer": "0.046707",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.091091",
+    "time_total": "0.091309",
+    "website": "https://www.google.com.np"
+}
+https://www.sammobile.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.34.17",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.032430",
+    "time_connect": "0.007139",
+    "time_namelookup": "0.005807",
+    "time_pretransfer": "0.032537",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.272094",
+    "time_total": "0.276612",
+    "website": "https://www.sammobile.com"
+}
+https://www.businessoffashion.com: {
+    "http_version": "2",
+    "remote_ip": "104.17.150.81",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.026007",
+    "time_connect": "0.008294",
+    "time_namelookup": "0.006344",
+    "time_pretransfer": "0.026147",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.103682",
+    "time_total": "0.141060",
+    "website": "https://www.businessoffashion.com"
+}
+https://www.blogspot.be: {
+    "http_version": "2",
+    "remote_ip": "172.217.22.41",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.038834",
+    "time_connect": "0.021418",
+    "time_namelookup": "0.019517",
+    "time_pretransfer": "0.038959",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.701163",
+    "time_total": "0.701433",
+    "website": "https://www.blogspot.be"
+}
+https://www.goop.com: {
+    "http_version": "2",
+    "remote_ip": "104.19.235.11",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.035879",
+    "time_connect": "0.015030",
+    "time_namelookup": "0.006356",
+    "time_pretransfer": "0.035971",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.057881",
+    "time_total": "0.057997",
+    "website": "https://www.goop.com"
+}
+https://www.enotes.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.68.40",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.056330",
+    "time_connect": "0.030049",
+    "time_namelookup": "0.021172",
+    "time_pretransfer": "0.056418",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.074388",
+    "time_total": "0.074520",
+    "website": "https://www.enotes.com"
+}
+https://www.rawgit.com: {
+    "http_version": "2",
+    "remote_ip": "104.27.142.156",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.037096",
+    "time_connect": "0.016618",
+    "time_namelookup": "0.007852",
+    "time_pretransfer": "0.037204",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.226175",
+    "time_total": "0.226289",
+    "website": "https://www.rawgit.com"
+}
+https://www.cyberciti.biz: {
+    "http_version": "2",
+    "remote_ip": "104.22.10.214",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.022199",
+    "time_connect": "0.008868",
+    "time_namelookup": "0.007407",
+    "time_pretransfer": "0.022306",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.043645",
+    "time_total": "0.043862",
+    "website": "https://www.cyberciti.biz"
+}
+https://www.smadex.com: {
+    "http_version": "2",
+    "remote_ip": "185.148.46.6",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.324029",
+    "time_connect": "0.157880",
+    "time_namelookup": "0.004403",
+    "time_pretransfer": "0.324124",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.485084",
+    "time_total": "0.789043",
+    "website": "https://www.smadex.com"
+}
+https://www.beforeitsnews.com: {
+    "http_version": "2",
+    "remote_ip": "104.22.74.138",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.023280",
+    "time_connect": "0.009310",
+    "time_namelookup": "0.008612",
+    "time_pretransfer": "0.023374",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.390029",
+    "time_total": "0.390137",
+    "website": "https://www.beforeitsnews.com"
+}
+https://www.skyscrapercity.com: {
+    "http_version": "2",
+    "remote_ip": "104.16.69.82",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.034369",
+    "time_connect": "0.019252",
+    "time_namelookup": "0.018479",
+    "time_pretransfer": "0.034679",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.295016",
+    "time_total": "0.295230",
+    "website": "https://www.skyscrapercity.com"
+}
+https://www.google.com.py: {
+    "http_version": "2",
+    "remote_ip": "172.217.21.195",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.043193",
+    "time_connect": "0.024483",
+    "time_namelookup": "0.022353",
+    "time_pretransfer": "0.043306",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.084682",
+    "time_total": "0.084843",
+    "website": "https://www.google.com.py"
+}
+https://www.google.com.bh: {
+    "http_version": "2",
+    "remote_ip": "172.217.16.131",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.034177",
+    "time_connect": "0.015276",
+    "time_namelookup": "0.013336",
+    "time_pretransfer": "0.034287",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.075997",
+    "time_total": "0.076305",
+    "website": "https://www.google.com.bh"
+}
+https://www.keywordtool.io: {
+    "http_version": "2",
+    "remote_ip": "172.67.71.65",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.036496",
+    "time_connect": "0.014609",
+    "time_namelookup": "0.005556",
+    "time_pretransfer": "0.036633",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.302449",
+    "time_total": "0.302547",
+    "website": "https://www.keywordtool.io"
+}
+https://www.listverse.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.71.237",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.040919",
+    "time_connect": "0.016122",
+    "time_namelookup": "0.007517",
+    "time_pretransfer": "0.041047",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.513621",
+    "time_total": "0.513671",
+    "website": "https://www.listverse.com"
+}
+https://www.sportsmansoutdoorsuperstore.com: {
+    "http_version": "2",
+    "remote_ip": "172.67.75.119",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.038002",
+    "time_connect": "0.016311",
+    "time_namelookup": "0.007179",
+    "time_pretransfer": "0.038113",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.947665",
+    "time_total": "0.957032",
+    "website": "https://www.sportsmansoutdoorsuperstore.com"
+}
+https://www.opensubtitles.org: {
+    "http_version": "2",
+    "remote_ip": "104.26.9.126",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.020962",
+    "time_connect": "0.007562",
+    "time_namelookup": "0.006861",
+    "time_pretransfer": "0.021055",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.080450",
+    "time_total": "0.080495",
+    "website": "https://www.opensubtitles.org"
+}
+https://www.gymshark.com: {
+    "http_version": "2",
+    "remote_ip": "23.227.38.74",
+    "remote_port": "443",
+    "status": "ok",
+    "time_appconnect": "0.034656",
+    "time_connect": "0.016453",
+    "time_namelookup": "0.013580",
+    "time_pretransfer": "0.034761",
+    "time_redirect": "0.000000",
+    "time_starttransfer": "0.677566",
+    "time_total": "0.687651",
+    "website": "https://www.gymshark.com"
+}

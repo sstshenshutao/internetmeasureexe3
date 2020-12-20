@@ -1,0 +1,5 @@
+no,website,http_version,status,remote_ip,remote_port,time_appconnect,time_connect,time_namelookup,time_pretransfer,time_redirect,time_starttransfer,time_total
+5655,https://www.friendfeed.com,0.0,error,157.240.9.18,443.0,0.0,0.04839,0.0208,0.0,0.0,0.0,0.091277
+6755,https://www.okp.com,0.0,error,23.227.38.74,443.0,0.0,0.293655,0.29280100000000003,0.0,0.0,0.0,0.306572
+8308,https://www.googlehosted.com,0.0,error,172.217.22.97,443.0,0.0,0.015263,0.013487,0.0,0.0,0.0,0.04057
+8810,https://www.accountkit.com,0.0,error,157.240.9.18,443.0,0.0,0.03968,0.012462,0.0,0.0,0.0,0.078039
