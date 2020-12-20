@@ -27,6 +27,8 @@ def start_driver(mode='h3'):
         chrome_options.add_argument('--enable-quic')
         chrome_options.add_argument('--quic-version=h3-29')
         chrome_options.add_argument('--origin-to-force-quic-on=*')
+    else:
+        chrome_options.add_argument('--disable-quic')
     driver = webdriver.Chrome(options=chrome_options)
     return driver
 
@@ -139,3 +141,14 @@ if __name__ == '__main__':
         os.mkdir(question_h_output_dir)
     chrome_do_visit(mode='h3')
     chrome_do_visit(mode='h2')
+
+    domain_df = pd.read_csv(os.path.join(question_h_output_dir, 'tmp', 'chunk.csv'), header=None, index_col=0,
+                            names=["no", "domain name"], )
+    chrome_h2_df = pd.read_csv(os.path.join(question_h_output_dir, 'tmp', 'summary_chrome_h2.csv'), index_col=0)
+    chrome_h3_df = pd.read_csv(os.path.join(question_h_output_dir, 'tmp', 'summary_chrome_h3.csv'), index_col=0)
+    chrome_h2_df.merge(domain_df, left_index=True, right_index=True)[[
+        "domain name", "responseStart", "domInteractive", "domComplete"]].to_csv(
+        os.path.join(question_h_output_dir, 'summary_chrome_h2.csv'), index=False)
+    chrome_h3_df.merge(domain_df, left_index=True, right_index=True)[[
+        "domain name", "responseStart", "domInteractive", "domComplete"]].to_csv(
+        os.path.join(question_h_output_dir, 'summary_chrome_h3.csv'), index=False)

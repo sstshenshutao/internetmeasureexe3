@@ -1,0 +1,397 @@
+provider;lookup_type;description;asn
+Cedexis;RIPE;CEDEXIS - Cedexis Inc, US;53847
+Akamai;PeeringDB;Akamai Technologies;20940
+Akamai;PeeringDB;Akamai Prolexic DDoS Mitigation;32787
+Akamai;RIPE;AKAMAI - Akamai Technologies, Inc., US;12222
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;16625
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;16702
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;18680
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;18717
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;20189
+Akamai;RIPE;AKAMAI-ASN1, US;20940
+Akamai;RIPE;AKAMAI-ASN2, US;21342
+Akamai;RIPE;AKAMAI-MAPPING, US;21357
+Akamai;RIPE;AKAMAI3, US;21399
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;22207
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;23454
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;23455
+Akamai;RIPE;AKAMAI-AS-BANGLORE Akamai Banglore Office ASN, IN;23903
+Akamai;RIPE;AKAMAI-TYO-AP Akamai Technologies Tokyo ASN, SG;24319
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;30675
+Akamai;RIPE;AKAMAI-NY, US;31107
+Akamai;RIPE;AKAMAI-VA, US;31108
+Akamai;RIPE;AKAMAI-LA, US;31109
+Akamai;RIPE;AKAMAI-SJC, US;31110
+Akamai;RIPE;AKAMAI-BOS, US;31377
+Akamai;RIPE;AKAMAI-AMS, US;33905
+Akamai;RIPE;AKAMAI-LON, GB;34164
+Akamai;RIPE;AKAMAI-MUC, IR;34850
+Akamai;RIPE;AKAMAI-DUB, US;35204
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;35993
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;35994
+Akamai;RIPE;AKAMAI-AS - Akamai Technologies, Inc., US;36183
+Akamai;RIPE;AKAMAI-FRA, DE;39836
+Akamai;RIPE;AKAMAI-AMS2, NL;43639
+Akamai;RIPE;AKAMAI-AP Akamai Technologies, Inc., SG;55770
+Akamai;RIPE;AKAMAI-TEST - Akamai Technologies, Inc., US;393560
+Facebook;PeeringDB;Facebook Inc;32934
+Facebook;PeeringDB;Facebook Inc AS63293;63293
+Facebook;RIPE;FACEBOOK - Facebook, Inc., US;32934
+Facebook;RIPE;FACEBOOK-CORP - Facebook Inc, US;54115
+Facebook;RIPE;FACEBOOK-OFFNET - Facebook, Inc., US;63293
+Microsoft;PeeringDB;Microsoft;8075
+Microsoft;PeeringDB;Microsoft AS8068;8068
+Microsoft;PeeringDB;Microsoft AS8069;8069
+Microsoft;RIPE;MICROSOFT-CORP-AS - Microsoft Corporation, US;3598
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS-SATURN - Microsoft Corporation, US;5761
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS-4 - Microsoft Corporation, US;6182
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS - Microsoft Corporation, US;6291
+Microsoft;RIPE;MICROSOFT-GP-AS - Microsoft Corporation, US;6584
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US;8068
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US;8069
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US;8070
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US;8071
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US;8072
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US;8073
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US;8074
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US;8075
+Microsoft;RIPE;MICROSOFT - Microsoft Corporation, US;12076
+Microsoft;RIPE;MICROSOFT-CORP-MSN-AS-2 - Microsoft Corporation, US;13399
+Microsoft;RIPE;MICROSOFT-CORP-BCENTRAL - Microsoft Corporation, US;14719
+Microsoft;RIPE;MICROSOFT-BOS - Microsoft Corporation, US;20046
+Microsoft;RIPE;MICROSOFT-CORP-XBOX-ONLINE - Microsoft Corporation, US;23468
+Microsoft;RIPE;MICROSOFT-LIVE-MEETING, GB;35106
+Microsoft;RIPE;MICROSOFT-AS-AP Microsoft Corp, SG;45139
+Microsoft;RIPE;Microsoft Informatica Ltda, BR;52985
+Microsoft;RIPE;MICROSOFT-CORP-AS-BLOCK-MSIT3 - Microsoft Corporation, US;395496
+Microsoft;RIPE;MICROSOFT-CORP-AS-BLOCK-MSIT4 - Microsoft Corporation, US;395524
+Microsoft;RIPE;MICROSOFT-CORP-AS-BLOCK-MSIT2 - Microsoft Corporation, US;395851
+Microsoft;RIPE;MICROSOFT-CORP-AS-BLOCK-MSIT - Microsoft Corporation, US;396463
+Google;PeeringDB;Google LLC;15169
+Google;PeeringDB;Google LLC AS36040;36040
+Google;PeeringDB;Google LLC AS43515;43515
+Google;PeeringDB;Google Fiber, Inc.;16591
+Google;PeeringDB;Google Corporate Network in APAC;45566
+Google;PeeringDB;Google Private Cloud;16550
+Google;RIPE;GOOGLE-FIBER - Google Fiber Inc., US;6432
+Google;RIPE;GOOGLE - Google LLC, US;15169
+Google;RIPE;GOOGLE-PRIVATE-CLOUD - Google LLC, US;16550
+Google;RIPE;GOOGLE-FIBER - Google Fiber Inc., US;16591
+Google;RIPE;GOOGLE-FIBER - Google Fiber Inc., US;19448
+Google;RIPE;GOOGLE-2 - Google LLC, US;19527
+Google;RIPE;GOOGLE - Google LLC, US;22859
+Google;RIPE;GOOGLE - Google LLC, US;36039
+Google;RIPE;GOOGLE-IT - Google LLC, US;36384
+Google;RIPE;GOOGLE-IT - Google LLC, US;36385
+Google;RIPE;GOOGLEWIFI - Google, LLC, US;36492
+Google;RIPE;google-as, KE;36987
+Google;RIPE;GOOGLE-IT-RO-ISP, CH;41264
+Google;RIPE;GOOGLE-CORP-APAC-AS-AP AS number for Google Corporate Network in APAC, IN;45566
+Google;RIPE;GOOGLE - Google LLC, US;394507
+Google;RIPE;GOOGLE - Google LLC, US;394639
+Google;RIPE;GOOGLE-ACCESS-NYC - Google Access LLC, US;394699
+Google;RIPE;GOOGLE-2 - Google LLC, US;395973
+Google;RIPE;GOOGLE-PRIVATE-CLOUD - Google LLC, US;396982
+Amazon;PeeringDB;Amazon.com;16509
+Amazon;PeeringDB;Amazon.com Tech Telecom;38895
+Amazon;RIPE;AMAZON-AS - Amazon.com, Inc., US;7224
+Amazon;RIPE;AMAZON EXPANSION, GB;8987
+Amazon;RIPE;AMAZON-AP-RESOURCES-AS-AP-NRT Amazon Data Services Japan KK, JP;10124
+Amazon;RIPE;AMAZON-AES - Amazon.com, Inc., US;14618
+Amazon;RIPE;AMAZON-02 - Amazon.com, Inc., US;16509
+Amazon;RIPE;AMAZON-AP-RESOURCES-AS-AP-SIN Amazon Asia-Pacific Resources Private Limited, SG;17493
+Amazon;RIPE;AMAZON-AS-AP Amazon.com Tech Telecom, JP;38895
+Amazon;RIPE;AMAZON-AU Amazon Corporate Services, AU;58588
+Amazon;RIPE;AMAZON-FC - Amazon Corporate LLC, US;62785
+Amazon;RIPE;AMAZON-CN Amazon Connection Technology Services (Beijing) Co., LTD, CN;135630
+Edgecast;PeeringDB;Verizon Digital Media Services (EdgeCast Networks);15133
+Edgecast;RIPE;EDGECAST-IR - MCI Communications Services, Inc. d/b/a Verizon Business, US;14153
+Edgecast;RIPE;EDGECAST-DCA - MCI Communications Services, Inc. d/b/a Verizon Business, US;14210
+Edgecast;RIPE;EDGECAST - MCI Communications Services, Inc. d/b/a Verizon Business, US;15133
+Cloudflare;PeeringDB;Cloudflare;13335
+Cloudflare;RIPE;CLOUDFLARENET - Cloudflare, Inc., US;13335
+Cloudflare;RIPE;CLOUDFLARENET-AUS - Cloudflare, Inc., US;14789
+Cloudflare;RIPE;CLOUDFLARE Cloudflare, Inc., US;132892
+Cloudflare;RIPE;CLOUDFLARE Cloudflare, Inc., US;133877
+Cloudflare;RIPE;CLOUDFLARENET-LUX CloudFlare, Inc., LU;202623
+Cloudflare;RIPE;CLOUDFLARENET-UK CloudFlare, Inc., GB;203898
+Cloudflare;RIPE;CLOUDFLARENET-SFO - Cloudflare, Inc., US;394536
+Cloudflare;RIPE;CLOUDFLARENET-SFO05 - Cloudflare, Inc., US;395747
+ChinaNetCenter;RIPE;CHINANETCENTER-AP Internet Service Provider in China, CN;17442
+CDNetworks;PeeringDB;CDNetworks;38670
+CDNetworks;PeeringDB;CDNetworks Inc.;36408
+CDNetworks;PeeringDB;CDNetworks  ASN 38107;38107
+CDNetworks;RIPE;CDNETWORKSUS-02 - CDNetworks Inc., US;36408
+CDNetworks;RIPE;CDNETWORKS-AS-KR CDNetworks, KR;38107
+CDNetworks;RIPE;CDNETWORKS-AP-AS-KR CDNetworks, KR;38670
+CDNetworks;RIPE;CDNETWORKSUS-01 - CDNetworks Inc., US;40366
+CDNetworks;RIPE;CDNETWORKS-AS, US;43303
+Fastly;PeeringDB;Fastly, Inc.;54113
+Fastly;RIPE;FASTLY - Fastly, US;54113
+Fastly;RIPE;FASTLY-IT - Fastly, US;394192
+Rackspace;PeeringDB;Rackspace;12200
+Rackspace;PeeringDB;Rackspace Hong Kong;45187
+Rackspace;PeeringDB;Rackspace Sydney;58683
+Rackspace;RIPE;RACKSPACE - Rackspace Hosting, US;10532
+Rackspace;RIPE;RACKSPACE - Rackspace Hosting, US;12200
+Rackspace;RIPE;RACKSPACE-LON, GB;15395
+Rackspace;RIPE;RACKSPACE - Rackspace Hosting, US;19994
+Rackspace;RIPE;RACKSPACE-AUS - Rackspace Hosting, US;22720
+Rackspace;RIPE;RACKSPACE - Rackspace Hosting, US;27357
+Rackspace;RIPE;RACKSPACE - Rackspace Hosting, US;36248
+Rackspace;RIPE;RACKSPACE-AP Rackspace IT Hosting AS IT Hosting Provider Hong Kong, HK;45187
+Rackspace;RIPE;RACKSPACE-AS Rackspace.com Sydney, HK;58683
+Limelight;PeeringDB;Limelight Networks Global;22822
+Limelight;PeeringDB;Limelight Networks Australia;38622
+Limelight;PeeringDB;Limelight Networks India;55429
+Limelight;PeeringDB;Limelight Networks Korea;45396
+Limelight;PeeringDB;Limelight Networks UAE;60261
+Limelight;PeeringDB;Limelight Networks South Americas;23059
+Limelight;PeeringDB;Limelight Networks Israel;25804
+Limelight;PeeringDB;Limelight Networks New Delhi;38621
+Level3;PeeringDB;Level3 Carrier;58682
+Level3;RIPE;LEVEL3 - Level 3 Parent, LLC, US;3356
+Level3;RIPE;LEVEL3, GB;9057
+Level3;RIPE;LEVEL3-BD Level3 Carrier Ltd., BD;58682
+Level3;RIPE;LEVEL3COMMUNICATIONS, FR;202818
+Ananke;PeeringDB;Ananke;262446
+Ananke;RIPE;Ananke Tecnologia Ltda, BR;262446
+Azion;PeeringDB;Azion Technologies;52580
+Azion;RIPE;Azion Technologies Ltda., BR;52580
+CDN77;PeeringDB;CDN77;60068
+CDN77;RIPE;CDN77, GB;60068
+ChinaCache;PeeringDB;Chinacache;63541
+ChinaCache;RIPE;CHINACACHE-AS Beijing Blue I.T. Technologies Co., Ltd., CN;18216
+ChinaCache;RIPE;CHINACACHE Beijing Blue I.T Technologies Co.,Ltd., CN;63541
+ChinaCache;RIPE;CHINACACHE Beijing Blue I.T Technologies Co.,Ltd., CN;63542
+ChinaCache;RIPE;CHINACACHE Beijing Blue I.T Technologies Co.,Ltd., CN;63543
+Highwinds;PeeringDB;Highwinds Network Group, Inc;12989
+Highwinds;PeeringDB;StackPath (Highwinds);33438
+Highwinds;RIPE;HIGHWINDS - Highwinds Network Group, Inc., US;11588
+Highwinds;RIPE;HIGHWINDS4 - Highwinds Network Group, Inc., US;18607
+Highwinds;RIPE;HIGHWINDS3 - Highwinds Network Group, Inc., US;20446
+Highwinds;RIPE;HIGHWINDS5 - Highwinds Network Group, Inc., US;29798
+Highwinds;RIPE;HIGHWINDS2 - Highwinds Network Group, Inc., US;33438
+Incapsula;PeeringDB;Incapsula;19551
+Incapsula;RIPE;INCAPSULA - Incapsula Inc, US;19551
+Instartlogic;RIPE;INSTARTLOGIC-AS-AP Instart Logic, Inc, SG;133103
+LeaseWeb CDN;PeeringDB;LeaseWeb Network;16265
+LeaseWeb CDN;PeeringDB;LeaseWeb Germany / FRA-10;28753
+LeaseWeb CDN;PeeringDB;Leaseweb CDN B.V.;60626
+LeaseWeb CDN;PeeringDB;LeaseWeb Netherlands / AMS-01;60781
+LeaseWeb CDN;PeeringDB;LeaseWeb USA / WDC-01;30633
+LeaseWeb CDN;PeeringDB;LeaseWeb Asia Pacific / SIN-10;59253
+LeaseWeb CDN;PeeringDB;LeaseWeb Asia Pacific / HKG-10;133752
+LeaseWeb CDN;PeeringDB;LeaseWeb USA  / SFO-12;7203
+LeaseWeb CDN;PeeringDB;LeaseWeb USA / DAL-10;394380
+LeaseWeb CDN;PeeringDB;LeaseWeb UK / LON-11;205544
+LeaseWeb CDN;PeeringDB;LeaseWeb Netherlands;205025
+LeaseWeb CDN;RIPE;LEASEWEB-USA-SFO-12 - Leaseweb USA, Inc., US;7203
+LeaseWeb CDN;RIPE;LEASEWEB-NETWORK LeaseWeb Network B.V., NL;16265
+LeaseWeb CDN;RIPE;LEASEWEB-USA-PHX-11 - Leaseweb USA, Inc., US;19148
+LeaseWeb CDN;RIPE;LEASEWEB-USA-CHI-11 - Leaseweb USA, Inc., US;27411
+LeaseWeb CDN;RIPE;LEASEWEB-DE-FRA-10, DE;28753
+LeaseWeb CDN;RIPE;LEASEWEB-USA-WDC-01 - Leaseweb USA, Inc., US;30633
+LeaseWeb CDN;RIPE;LEASEWEB-, DE;30878
+LeaseWeb CDN;RIPE;LEASEWEB-APAC-SIN-11 Leaseweb Asia Pacific pte. ltd., SG;59253
+LeaseWeb CDN;RIPE;LEASEWEBCDN, NL;60626
+LeaseWeb CDN;RIPE;LEASEWEB-NL-AMS-01 Netherlands, NL;60781
+LeaseWeb CDN;RIPE;LEASEWEB-APAC-HKG-10 Leaseweb Asia Pacific pte. ltd., HK;133752
+LeaseWeb CDN;RIPE;LEASEWEB-AS-AP LEASEWEB AUSTRALIA PTY LIMITED, AU;136988
+LeaseWeb CDN;RIPE;LEASEWEB-NL-TWIN-DC, NL;205025
+LeaseWeb CDN;RIPE;LEASEWEB-UK-LON-11, GB;205544
+LeaseWeb CDN;RIPE;LEASEWEB-USA-MIA-11 - Leaseweb USA, Inc., US;393886
+LeaseWeb CDN;RIPE;LEASEWEB-USA-DAL-10 - Leaseweb USA, Inc., US;394380
+LeaseWeb CDN;RIPE;LEASEWEB-USA-LAX-11 - Leaseweb USA, Inc., US;395954
+LeaseWeb CDN;RIPE;LEASEWEB-USA-SEA-10 - Leaseweb USA, Inc., US;396190
+LeaseWeb CDN;RIPE;LEASEWEB-USA-NYC-11 - Leaseweb USA, Inc., US;396362
+StackPath;PeeringDB;StackPath, LLC;54104
+StackPath;PeeringDB;StackPath (Highwinds);33438
+Reflected Networks;RIPE;REFLECTED - Reflected Networks, Inc., US;29789
+Reflected Networks;RIPE;REFLECTED-2 - Reflected Networks, Inc., US;31936
+SwiftServe;RIPE;SWIFTSERVE, GB;60668
+Taobao;RIPE;TAOBAO Zhejiang Taobao Network Co.,Ltd, CN;24429
+Taobao;RIPE;TAOBAO Zhejiang Taobao Network Co.,Ltd, CN;38369
+BitGravity;PeeringDB;BitGravity, Inc.;40009
+BitGravity;RIPE;BITGRAVITY - BitGravity, Inc., US;40009
+Zenedge;RIPE;ZENEDGE - Oracle Corporation, US;393676
+Yahoo;PeeringDB;Yahoo!;10310
+Yahoo;PeeringDB;Yahoo Japan;23816
+Yahoo;PeeringDB;Yahoo! AS17457;17457
+Yahoo;PeeringDB;Yahoo Japan 2;24572
+Yahoo;PeeringDB;Yahoo! UK ;204000
+Yahoo;PeeringDB;Yahoo! CHA;394561
+Yahoo;PeeringDB;Yahoo! AS134706;134706
+Yahoo;PeeringDB;Yahoo! ,Oath Global Network;55517
+Yahoo;RIPE;YAHOO-DNB - Yahoo! Broadcast Services, Inc., US;5779
+Yahoo;RIPE;YAHOO-US - Yahoo, US;7233
+Yahoo;RIPE;YAHOO-FC - Yahoo! Inc., US;7280
+Yahoo;RIPE;YAHOO-PH Gaming firm which will peer directly with different ISPs in the Philippines, PH;9256
+Yahoo;RIPE;YAHOO-AS-KR Yahoo! Korea, Corp., KR;10157
+Yahoo;RIPE;YAHOO-CN Internet Content Provider, HK;10228
+Yahoo;RIPE;YAHOO-TW1 Internet Content Provider, TW;10229
+Yahoo;RIPE;YAHOO-SG internet content provider, SG;10230
+Yahoo;RIPE;YAHOO-1 - Yahoo!, US;10310
+Yahoo;RIPE;YAHOO-AN2 - Yahoo, US;10880
+Yahoo;RIPE;YAHOO-CHA - Yahoo, US;14196
+Yahoo;RIPE;YAHOO-HILLSBORO - Yahoo, US;14678
+Yahoo;RIPE;YAHOO-UKL, GB;15635
+Yahoo;RIPE;YAHOO-DEA, DE;15896
+Yahoo;RIPE;YAHOO-US2 - Yahoo, US;17110
+Yahoo;RIPE;YAHOO-AU-AP internet content provider, CN;17457
+Yahoo;RIPE;YAHOO-18140 Yahoo Japan Corporation, JP;18140
+Yahoo;RIPE;YAHOO-HK2-AP Internet content provider, HK;18293
+Yahoo;RIPE;YAHOO-NUQ - Yahoo, US;22565
+Yahoo;RIPE;YAHOO-BANGALORE-AS-AP Yahoo Bangalore Network Monitoring Center, JP;23663
+Yahoo;RIPE;YAHOO Yahoo Japan Corporation, JP;23816
+Yahoo;RIPE;YAHOO-IN1-AS Internet Content Provider, US;23879
+Yahoo;RIPE;YAHOO-AEA Internet content provider, US;23880
+Yahoo;RIPE;YAHOO-JP3-AP JP DC, JP;23926
+Yahoo;RIPE;YAHOO-BACKBONE-AP Yahoo Backbone Network, Asia Pacific, HK;24018
+Yahoo;RIPE;YAHOO-TPC Internet Content Provider, US;24031
+Yahoo;RIPE;YAHOO-BANGALORE-AS-AP Yahoo Bangalore Network Monitoring Center, HK;24236
+Yahoo;RIPE;YAHOO-2 Yahoo Japan Corporation, JP;24296
+Yahoo;RIPE;YAHOO-CN2-AP Yahoo China Datacenter, CN;24376
+Yahoo;RIPE;YAHOO-TP2 YAHOO! TAIWAN, TW;24506
+Yahoo;RIPE;YAHOO-JP-AS-AP Yahoo Japan, JP;24572
+Yahoo;RIPE;YAHOO-2 - Yahoo!, US;26085
+Yahoo;RIPE;YAHOO-3 - Yahoo!, US;26101
+Yahoo;RIPE;Yahoo! do Brasil Internet Ltda., BR;28122
+Yahoo;RIPE;YAHOO-4 - Yahoo!, US;32116
+Yahoo;RIPE;YAHOO-IRD, GB;34010
+Yahoo;RIPE;YAHOO-AMA, GB;34082
+Yahoo;RIPE;YAHOO-BCST-AC2 - Yahoo, US;36088
+Yahoo;RIPE;YAHOO-MAVEN - Yahoo, US;36129
+Yahoo;RIPE;YAHOO-YSM-SC8 - Yahoo! Inc., US;36229
+Yahoo;RIPE;YAHOO-NE1 - Yahoo, US;36646
+Yahoo;RIPE;YAHOO-GQ1 - Yahoo, US;36647
+Yahoo;RIPE;YAHOO-SP1 - Yahoo, US;36752
+Yahoo;RIPE;YAHOO-HK2-AP internet content provider, HK;38032
+Yahoo;RIPE;YAHOO-JP2-AP internet content provider, JP;38033
+Yahoo;RIPE;YAHOO-CORP1-AP Yahoo! Inc. Corp Network, TW;38045
+Yahoo;RIPE;YAHOO-IN2-AS Yahoo! Web Services India Pvt Ltd., IN;38072
+Yahoo;RIPE;YAHOO1-AS from AS28730 accept ANY, GB;40986
+Yahoo;RIPE;YAHOO-SWITZERLAND, CH;42173
+Yahoo;RIPE;YAHOO-ULS, GB;43428
+Yottaa;PeeringDB;Yottaa;393259
+Yottaa;RIPE;YOTTAA-AS-1 - Yottaa, Inc, US;393259
+OnApp;RIPE;OnApp Ltd., UA;200288
+NGENIX;PeeringDB;Ngenix;34879
+SFR;PeeringDB;SFR Group;15557
+SFR;PeeringDB;SFR Business Team;12566
+SFR;RIPE;SFR-BUSINESS-TEAM SFR Business Team, FR;12566
+SFR;RIPE;SFR-NETWORK, FR;29372
+Aryaka;PeeringDB;Aryaka Networks;11179
+Aryaka;RIPE;ARYAKA-ARIN - Aryaka Networks, Inc., US;11179
+BunnyCDN;RIPE;BUNNYCDN, DE;200325
+Internap;PeeringDB;Internap;29791
+Internap;PeeringDB;Internap BLK6;30636
+Internap;RIPE;INTERNAP-4513 - Internap Network Services Corporation, US;4513
+Internap;RIPE;INTERNAP-SEA - Internap Network Services Corporation, US;6993
+Internap;RIPE;INTERNAP-BLK - Internap Network Services Corporation, US;10910
+Internap;RIPE;INTERNAP-BLK - Internap Network Services Corporation, US;10911
+Internap;RIPE;INTERNAP-BLK - Internap Network Services Corporation, US;10912
+Internap;RIPE;INTERNAP-BLK - Internap Network Services Corporation, US;10913
+Internap;RIPE;INTERNAP-2BLK - Internap Network Services Corporation, US;12178
+Internap;RIPE;INTERNAP-2BLK - Internap Network Services Corporation, US;12179
+Internap;RIPE;INTERNAP-2BLK - Internap Network Services Corporation, US;12180
+Internap;RIPE;INTERNAP-2BLK - Internap Network Services Corporation, US;12181
+Internap;RIPE;INTERNAP-2BLK - Internap Network Services Corporation, US;12182
+Internap;RIPE;INTERNAP-BLK3 - Internap Network Services Corporation, US;13789
+Internap;RIPE;INTERNAP-BLK3 - Internap Network Services Corporation, US;13790
+Internap;RIPE;INTERNAP-BLK3 - Internap Network Services Corporation, US;13791
+Internap;RIPE;INTERNAP-BLK3 - Internap Network Services Corporation, US;13792
+Internap;RIPE;INTERNAP-BLK4 - Internap Network Services Corporation, US;14636
+Internap;RIPE;INTERNAP-BLOCK-4 - Internap Network Services Corporation, US;14742
+Internap;RIPE;INTERNAP-BLOCK-4 - Internap Network Services Corporation, US;14743
+Internap;RIPE;INTERNAP-BLOCK-4 - Internap Network Services Corporation, US;14744
+Internap;RIPE;INTERNAP-BLOCK-4 - Internap Network Services Corporation, US;14745
+Internap;RIPE;Internap European Autonomous System, GB;15421
+Internap;RIPE;Internap European Autonomous System, GB;15570
+Internap;RIPE;INTERNAP-BLK5 - Internap Network Services Corporation, US;19024
+Internap;RIPE;INTERNAP-BLK - Internap Network Services Corporation, US;22132
+Internap;RIPE;INTERNAP-FCP - Internap Network Services Corporation, US;22211
+Internap;RIPE;INTERNAP-PEERING-NETWORK - Internap Network Services Corporation, US;22212
+Internap;RIPE;INTERNAP-BLK6 - Internap Network Services Corporation, US;30636
+Internap;RIPE;INTERNAP-AGILE-HOSTING-SG Internap Network Services (Singapore) Pte. Limited, SG;55755
+Yottaa;PeeringDB;Yottaa;393259
+Yottaa;RIPE;YOTTAA-AS-1 - Yottaa, Inc, US;393259
+CacheFly;PeeringDB;CacheFly;30081
+AT&T;RIPE;ATT-INTERNET - Lucent Technologies/Bell Laboratories, US;144
+AT&T;RIPE;ATT-PARADYNE - AT&T Paradyne, US;2751
+AT&T;RIPE;ATTIS-ASN3420 - AT&T Corp., US;3420
+AT&T;RIPE;ATTIS-ASN3421 - AT&T Corp., US;3421
+AT&T;RIPE;ATTIS-ASN3422 - AT&T Corp., US;3422
+AT&T;RIPE;ATTIS-ASN3423 - AT&T Corp., US;3423
+AT&T;RIPE;ATTIS-ASN4185 - AT&T Corp., US;4185
+AT&T;RIPE;ATTIS-ASN4186 - AT&T Corp., US;4186
+AT&T;RIPE;ATTIS-ASN4473 - AT&T Corp., US;4473
+AT&T;RIPE;ATT-ELSAU-AS AT&T EasyLink Services Australia, AU;4742
+AT&T;RIPE;ATTIS-ASN4990 - AT&T Corp., US;4990
+AT&T;RIPE;ATTIS-ASN5102 - AT&T Corp., US;5102
+AT&T;RIPE;ATTIS-ASN5103 - AT&T Corp., US;5103
+AT&T;RIPE;ATTIS-ASN5104 - AT&T Corp., US;5104
+AT&T;RIPE;ATTIS-ASN5105 - AT&T Corp., US;5105
+AT&T;RIPE;ATTIS-ASN5107 - AT&T Corp., US;5107
+AT&T;RIPE;ATT-CH-0A ATT-EMEA Autonomous System (dr6348), NL;5623
+AT&T;RIPE;ATT-INTERNET2 - AT&T Services, Inc., US;6269
+AT&T;RIPE;ATT-RESEARCH - ATT LABS, US;6431
+AT&T;RIPE;ATT-INTERNET3 - AT&T Services, Inc., US;6478
+AT&T;RIPE;ATT-GCH-VOI-SF-AS VoIP platform - ex Concert, NL;6686
+AT&T;RIPE;ATT-GCH-VOI-LA-AS VoIP platform - ex Concert, NL;6688
+AT&T;RIPE;ATT-CH-0E AT&T EMEA (dr6348), NL;6742
+AT&T;RIPE;ATT-CH-0D ATT WN-MIS Europe (dr6348), NL;6748
+AT&T;RIPE;ATT-ASIAPACIDC-SNG1-AS AT&T Webhosting Singapore IDC, US;6904
+AT&T;RIPE;ATT-EMEAIDC-AMS1-AS AT&T Webhosting Amsterdam IDC, US;6905
+AT&T;RIPE;ATT-COLUMBUS-AS - AT & T, US;6934
+AT&T;RIPE;ATT-INTERNET4 - AT&T Services, Inc., US;7018
+AT&T;RIPE;ATT-CMS - AT&T CMS, US;7329
+AT&T;RIPE;ATT-CH-0C AT&T VAS EMEA (dr6348), IT;8238
+AT&T;RIPE;ATT-DISCNET - AT&T Services, Inc., US;10456
+AT&T;RIPE;ATTIS-ASN11026 - AT&T Corp., US;11026
+AT&T;RIPE;ATT-CH-0B AT&T Solutions UK (dr6348), GB;12967
+AT&T;RIPE;ATT-IPFR - AT&T Services, Inc., US;13979
+AT&T;RIPE;ATT-ITSNCS-1 - AT&T Solutions ITS/NCS, US;15259
+AT&T;RIPE;ATT-INF001-A11 AT&T-GNS-AS15840 (dr6348), NL;15840
+AT&T;RIPE;ATT-MOBILITY-LLC-AS16572 - AT&T Mobility LLC, US;16572
+AT&T;RIPE;ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US;17224
+AT&T;RIPE;ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US;17225
+AT&T;RIPE;ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US;17226
+AT&T;RIPE;ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US;17227
+AT&T;RIPE;ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US;17228
+AT&T;RIPE;ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US;17229
+AT&T;RIPE;ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US;17230
+AT&T;RIPE;ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US;17231
+AT&T;RIPE;ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US;17232
+AT&T;RIPE;ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US;17233
+AT&T;RIPE;ATT-MOBILITY-LLC-AS17258 - AT&T Mobility LLC, US;17258
+Medianova;PeeringDB;Medianova Internet;21245
+Twitter;PeeringDB;Twitter, Inc.;13414
+Twitter;RIPE;TWITTER - Twitter Inc., US;13414
+Twitter;RIPE;TWITTER - Twitter Inc., US;35995
+Twitter;RIPE;TWITTER-NETWORK - Twitter Inc., US;54888
+Telenor;PeeringDB;Telenor (Norway/Sweden);2119
+Telenor;PeeringDB;Telenor Hungary Plc.;8448
+Telenor;PeeringDB;Telenor d.o.o Beograd;15958
+Telenor;PeeringDB;Telenor Myanmar;133385
+Telenor;PeeringDB;Telenor Bulgaria;29244
+Telenor;PeeringDB;Telenor Denmark;9158
+Telenor;PeeringDB;Telenor Pakistan;24499
+Telenor;PeeringDB;Telenor Global Services;15932
+Telenor;RIPE;TELENOR-NEXTEL Telenor Norge AS, NO;2119
+Telenor;RIPE;TELENOR, NO;8210
+Telenor;RIPE;TELENOR-SE former Utfors Bredband AB & Telenor AB, SE;8434
+Telenor;RIPE;TELENOR-MOBIL, NO;8786
+Telenor;RIPE;TELENOR-, SE;8984
+Telenor;RIPE;TELENOR_DANMARK_AS, DK;9158
+Telenor;RIPE;TELENORMONTENEGRO, ME;15397
+Telenor;RIPE;TELENOR_DOO_AS Telenordoo-NET, RS;15958
+Telenor;RIPE;TELENOR-IN Telenor (India) Communications Pvt. Ltd., IN;23870
+Telenor;RIPE;TELENOR-SE-AS, SE;25169
+Telenor;RIPE;TELENORBG-AS, BG;29244
+Telenor;RIPE;TELENOR-UK-LTD-AS, GB;31198
+Telenor;RIPE;TELENOR-NORGE NORWAY, NO;39197
+Telenor;RIPE;TELENORMYANMAR-AS Telenor Myanmar, MM;133385
+Telenor;RIPE;TELENORTSOLUCION, ES;204785
+CDNvideo;PeeringDB;CDNvideo;57363
+CDNvideo;RIPE;CDNVIDEO-AS, RU;57363

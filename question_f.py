@@ -6,7 +6,8 @@ import pandas as pd
 import multiprocessing
 import subprocess
 from utils import question_c_output_dir, question_c_intermediate_csv, question_f_top_1k_csv, \
-    question_f_output_dir, curl_program_h2, top_1k_h3_csv
+    question_f_output_dir, curl_program_h2, top_1k_h3_csv, top_1k_h2_csv, top_1k_h2_fail_csv, question_f_lim8, \
+    question_f_lim1
 from shutil import copyfile
 from curl_call import clean_logger, init_logger, summary_result
 import shlex
@@ -14,10 +15,8 @@ import itertools
 import json
 import logging
 from chunk_split import chunk_csv_to_file
-
-
-top_1k_h2_csv = "top-1k-h2.csv"
-top_1k_h2_fail_csv = "top-1k-h2-fail.csv"
+import matplotlib.pyplot as plt
+from question_e import support_h3
 
 
 def extract_top_1k():
@@ -208,9 +207,45 @@ def label_resolve_error():
         os.path.join(question_f_output_dir, top_1k_h2_fail_csv))
 
 
+def plot_difference():
+    # calculate h3
+    source_df = pd.read_csv(os.path.join(question_c_output_dir, question_c_intermediate_csv))
+    h3_1k_df = support_h3(source_df)
+    # |---DNS---||---QUIC--||--C--|----Transfer---|   the whole sequence process
+    h3_1k_df['DNS Lookup\n H3'] = h3_1k_df['time_namelookup']
+    h3_1k_df['QUIC\n H3'] = h3_1k_df['time_connect'] - h3_1k_df['time_namelookup']
+    h3_1k_df['Compute\n H3'] = h3_1k_df['time_starttransfer'] - h3_1k_df['time_pretransfer']
+    h3_1k_df['Transfer\n H3'] = h3_1k_df['time_total'] - h3_1k_df['time_starttransfer']
+    h3_1k_df['Total Time\n H3'] = h3_1k_df['time_total']
+    h3_1k_df = h3_1k_df[['no', 'DNS Lookup\n H3', 'QUIC\n H3', 'Compute\n H3', 'Transfer\n H3', 'Total Time\n H3']]
+
+    # calculate h2
+    source_df_h2 = pd.read_csv(os.path.join(question_f_output_dir, top_1k_h2_csv))
+    # |---DNS---||---QUIC--||--C--|----Transfer---|   the whole sequence process
+    source_df_h2['DNS Lookup\n H2'] = source_df_h2['time_namelookup']
+    source_df_h2['TCP TLS\n H2'] = source_df_h2['time_connect'] - source_df_h2['time_namelookup']
+    source_df_h2['Compute\n H2'] = source_df_h2['time_starttransfer'] - source_df_h2['time_pretransfer']
+    source_df_h2['Transfer\n H2'] = source_df_h2['time_total'] - source_df_h2['time_starttransfer']
+    source_df_h2['Total Time\n H2'] = source_df_h2['time_total']
+    source_df_h2 = source_df_h2[
+        ['no', 'DNS Lookup\n H2', 'TCP TLS\n H2', 'Compute\n H2', 'Transfer\n H2', 'Total Time\n H2']]
+    # merge them
+    h3_1k_df = h3_1k_df.merge(source_df_h2, left_on='no', right_on='no')
+    # plot
+    _, ax = plt.subplots(figsize=(12, 5))
+    boxplot = h3_1k_df.boxplot(ax=ax, column=['DNS Lookup\n H3', 'DNS Lookup\n H2', 'QUIC\n H3', 'TCP TLS\n H2',
+                                              'Compute\n H3',
+                                              'Compute\n H2', 'Transfer\n H3', 'Transfer\n H2', 'Total Time\n H3',
+                                              'Total Time\n H2'])
+    plt.savefig(os.path.join(question_f_output_dir, question_f_lim8), dpi=300)
+    ax.set_ylim(top=1)
+    plt.savefig(os.path.join(question_f_output_dir, question_f_lim1), dpi=300)
+
+
 if __name__ == '__main__':
     if not os.path.exists(question_f_output_dir):
         os.mkdir(question_f_output_dir)
     extract_top_1k()
     curl_h2()
     label_resolve_error()
+    plot_difference()
