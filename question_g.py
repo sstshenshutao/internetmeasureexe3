@@ -59,20 +59,30 @@ if __name__ == '__main__':
 
     # plot
     _, ax = plt.subplots(figsize=(12, 5))
-    boxplot = merged_df[["time\n appconnect\n delta",
+    plot_df = merged_df[["time\n appconnect\n delta",
                          "time\n connect\n delta",
                          "time\n namelookup\n delta",
                          "time\n pretransfer\n delta",
                          "time\n redirect\n delta",
                          "time\n starttransfer\n delta",
-                         "time\n total\n delta"]].boxplot(ax=ax,
-                                                          column=["time\n appconnect\n delta",
-                                                                  "time\n connect\n delta",
-                                                                  "time\n namelookup\n delta",
-                                                                  "time\n pretransfer\n delta",
-                                                                  "time\n redirect\n delta",
-                                                                  "time\n starttransfer\n delta",
-                                                                  "time\n total\n delta"])
+                         "time\n total\n delta"]]
+    bp = plot_df.boxplot(ax=ax,
+                         column=["time\n appconnect\n delta",
+                                 "time\n connect\n delta",
+                                 "time\n namelookup\n delta",
+                                 "time\n pretransfer\n delta",
+                                 "time\n redirect\n delta",
+                                 "time\n starttransfer\n delta",
+                                 "time\n total\n delta"])
+    plot_df.quantile([0.25, 0.5, 0.75]).rename(columns={
+        "time\n appconnect\n delta": "time_appconnect_delta",
+        "time\n connect\n delta": "time_connect_delta",
+        "time\n namelookup\n delta": "time_namelookup_delta",
+        "time\n pretransfer\n delta": "time_pretransfe_delta",
+        "time\n redirect\n delta": "time_redirect_elta",
+        "time\n starttransfer\n delta": "time_starttransfer_delta",
+        "time\n total\n delta": "time_total_delta"
+    }).to_csv(os.path.join(question_g_output_dir, 'percentiles.csv'))
     plt.savefig(os.path.join(question_g_output_dir, question_g_lim8), dpi=300)
     ax.set_ylim(top=1)
     plt.savefig(os.path.join(question_g_output_dir, question_g_lim1), dpi=300)
